@@ -1,0 +1,11 @@
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\bin\Debug\net8.0\ProjectClientHub.Exceptions.deps.json
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\bin\Debug\net8.0\ProjectClientHub.Exceptions.dll
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\bin\Debug\net8.0\ProjectClientHub.Exceptions.pdb
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\obj\Debug\net8.0\ProjectClientHub.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\obj\Debug\net8.0\ProjectClientHub.Exceptions.AssemblyInfoInputs.cache
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\obj\Debug\net8.0\ProjectClientHub.Exceptions.AssemblyInfo.cs
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\obj\Debug\net8.0\ProjectClientHub.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\obj\Debug\net8.0\ProjectClientHub.Exceptions.dll
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\obj\Debug\net8.0\refint\ProjectClientHub.Exceptions.dll
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\obj\Debug\net8.0\ProjectClientHub.Exceptions.pdb
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Exceptions\obj\Debug\net8.0\ref\ProjectClientHub.Exceptions.dll
