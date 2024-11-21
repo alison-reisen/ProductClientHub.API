@@ -9,3 +9,4 @@ C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Comunication
 C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Comunication\obj\Debug\net8.0\refint\ProjectClientHub.Comunication.dll
 C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Comunication\obj\Debug\net8.0\ProjectClientHub.Comunication.pdb
 C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Comunication\obj\Debug\net8.0\ref\ProjectClientHub.Comunication.dll
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.Comunication\obj\Debug\net8.0\ProjectClientHub.Comunication.sourcelink.json

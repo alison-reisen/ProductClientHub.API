@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\aliso\\Documents\\PROJETOS\\ProductClientHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{800B4AC6-70D3-43C6-85E8-49656482A84F}|ProjectClientHub.API\\ProjectClientHub.API.csproj|c:\\users\\aliso\\documents\\projetos\\productclienthub\\projectclienthub.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{800B4AC6-70D3-43C6-85E8-49656482A84F}|ProjectClientHub.API\\ProjectClientHub.API.csproj|solutionrelative:projectclienthub.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED70C7FD-E581-418E-99B0-4F8856F1681C}|ProjectClientHub.Comunication\\ProjectClientHub.Comunication.csproj|c:\\users\\aliso\\documents\\projetos\\productclienthub\\projectclienthub.comunication\\projectclienthub.comunication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ED70C7FD-E581-418E-99B0-4F8856F1681C}|ProjectClientHub.Comunication\\ProjectClientHub.Comunication.csproj|solutionrelative:projectclienthub.comunication\\projectclienthub.comunication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{800B4AC6-70D3-43C6-85E8-49656482A84F}|ProjectClientHub.API\\ProjectClientHub.API.csproj|c:\\users\\aliso\\documents\\projetos\\productclienthub\\projectclienthub.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800B4AC6-70D3-43C6-85E8-49656482A84F}|ProjectClientHub.API\\ProjectClientHub.API.csproj|solutionrelative:projectclienthub.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\aliso\\Documents\\PROJETOS\\ProductClientHub\\ProjectClientHub.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "ProjectClientHub.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\aliso\\Documents\\PROJETOS\\ProductClientHub\\ProjectClientHub.API\\WeatherForecast.cs",
-              "RelativeToolTip": "ProjectClientHub.API\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\aliso\\Documents\\PROJETOS\\ProductClientHub\\ProjectClientHub.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ProjectClientHub.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\aliso\\Documents\\PROJETOS\\ProductClientHub\\ProjectClientHub.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ProjectClientHub.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T03:02:27.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectClientHub.Comunication",
-              "DocumentMoniker": "C:\\Users\\aliso\\Documents\\PROJETOS\\ProductClientHub\\ProjectClientHub.Comunication\\ProjectClientHub.Comunication.csproj",
-              "RelativeDocumentMoniker": "ProjectClientHub.Comunication\\ProjectClientHub.Comunication.csproj",
-              "ToolTip": "C:\\Users\\aliso\\Documents\\PROJETOS\\ProductClientHub\\ProjectClientHub.Comunication\\ProjectClientHub.Comunication.csproj",
-              "RelativeToolTip": "ProjectClientHub.Comunication\\ProjectClientHub.Comunication.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-19T03:01:36.087Z",
+              "WhenOpened": "2024-11-21T02:56:18.182Z",
               "EditorCaption": ""
             }
           ]
