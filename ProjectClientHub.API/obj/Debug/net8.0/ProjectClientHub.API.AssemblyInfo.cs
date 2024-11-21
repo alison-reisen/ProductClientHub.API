@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectClientHub.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28fbae663c32fc04463a046b9b7e21dab7190131")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectClientHub.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectClientHub.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

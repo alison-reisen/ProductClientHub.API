@@ -38,3 +38,4 @@ C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.API\obj\Debu
 C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.API\obj\Debug\net8.0\ProjectClientHub.API.pdb
 C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.API\obj\Debug\net8.0\ProjectClientHub.API.genruntimeconfig.cache
 C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.API\obj\Debug\net8.0\ref\ProjectClientHub.API.dll
+C:\Users\aliso\Documents\PROJETOS\ProductClientHub\ProjectClientHub.API\obj\Debug\net8.0\ProjectClientHub.API.sourcelink.json
